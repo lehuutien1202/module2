@@ -13,7 +13,7 @@ public class ConvertF {
             System.out.println("0. Exit");
             input = scanner.nextInt();
 
-            switch (input) {1
+            switch (input) {
                 case 1: {
                     System.out.println("Enter Fahrenheit to Celsius");
                     int number = scanner.nextInt();
